@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Blackjack {
+    //new comment for Lab6 GitHub
 
     public static void main(String[] args) {
 

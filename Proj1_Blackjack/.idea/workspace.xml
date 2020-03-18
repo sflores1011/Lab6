@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1cf1fc-7ee7-4165-bb76-754ffd752287" name="Default Changelist" comment="" />
+    <list default="true" id="6a1cf1fc-7ee7-4165-bb76-754ffd752287" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Blackjack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blackjack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +17,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XLlvrTh3NHcQeDDqwpP4tnUA8S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -73,6 +81,8 @@
       <workItem from="1582042660901" duration="3000" />
       <workItem from="1583203900521" duration="135000" />
       <workItem from="1583449513197" duration="8000" />
+      <workItem from="1584497066912" duration="35000" />
+      <workItem from="1584497104556" duration="1000" />
     </task>
     <servers />
   </component>
